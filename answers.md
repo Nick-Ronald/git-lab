@@ -11,4 +11,3 @@ The changes I made online were not reflected in the local copy.
 The command is rejected, with hints as to why.
 The changes I made online are now reflected in the local copy.
 It displays files: . , .. , .git , .gitignore , README.md
-DONE
