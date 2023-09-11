@@ -1,6 +1,6 @@
-Git Version 2.34.1
-user.name=Nick-Ronald + user.email=nr737922@ohio.edu
-When you type git --help, it takes the function and takes you to a manual within the terminal and explains the given function in full detail and gives a synopsis on how to use it, with options, examples, and an interactive mode.
+1: Git Version 2.34.1
+2: user.name=Nick-Ronald + user.email=nr737922@ohio.edu
+3: When you type git --help, it takes the function and takes you to a manual within the terminal and explains the given function in full detail and gives a synopsis on how to use it, with options, examples, and an interactive mode.
 It displays "On branch master", "No commits yet", and marks README.md and answers.md as "Untracked files".
 Now it marks "README.md" under "Changes to be committed" and "answers.md" is still an untracked file.
 Now both "README.md" and "answers.md" are under "Changes to be committed".
